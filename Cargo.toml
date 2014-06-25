@@ -1,0 +1,10 @@
+[package]
+
+name = "simplediff"
+version = "0.5.0"
+authors = ["wycats@gmail.com", "me@carllerche"]
+
+[[lib]]
+
+name = "simplediff"
+path = "src/main.rs"
