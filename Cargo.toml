@@ -7,4 +7,4 @@ authors = ["wycats@gmail.com", "me@carllerche"]
 [[lib]]
 
 name = "simplediff"
-path = "src/main.rs"
+path = "src/lib.rs"
